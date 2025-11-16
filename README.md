@@ -1,12 +1,12 @@
 # Hi there, I'm Jia 👋
 
 
-[cite_start]I'm a sophomore at **Stony Brook University** [cite: 4] [cite_start]double-majoring in **Computer Science** and **Applied Mathematics & Statistics**[cite: 7]. I'm passionate about building full-stack applications, working with databases, and exploring data science and AI.
+I'm a sophomore at **Stony Brook University** double-majoring in **Computer Science** and **Applied Mathematics & Statistics**. I'm passionate about building full-stack applications, working with databases, and exploring data science and AI.
 
-* [cite_start]🎓 **Expected Graduation:** May 2028 [cite: 9]
-* [cite_start]💡 **Current Role:** AI Data Trainer at Data Annotations.tech [cite: 17, 18]
-* [cite_start]🔗 **LinkedIn:** [www.linkedin.com/in/jia-chen54](https://www.linkedin.com/in/jia-chen54) [cite: 2]
-* [cite_start]📧 **Email:** [jiabinc0602@gmail.com](mailto:jiabinc0602@gmail.com) [cite: 2]
+* 🎓 **Expected Graduation:** May 2028 
+* 💡 **Current Role:** AI Data Trainer at Data Annotations.tech 
+* 🔗 **LinkedIn:** [www.linkedin.com/in/jia-chen54](https://www.linkedin.com/in/jia-chen54)
+* 📧 **Email:** [jiabinc0602@gmail.com](mailto:jiabinc0602@gmail.com)
 
 ---
 
@@ -60,48 +60,13 @@ Here are some of the technologies I've been working with:
     </td>
   </tr>
 </table>
-
 ---
 
-## 💻 My Projects
+## 📊 My GitHub Stats
 
-*(Note: Some projects may be private due to academic policies.)*
-
-### 1. Synoptic AI (AI Call Analyzer)
-* [cite_start]**Event:** SBUHacks 2025 (Nov 2025) [cite: 41]
-* [cite_start]**Tech:** React, TypeScript, Auth0, AssemblyAI, NeuralSeek AI [cite: 38]
-* [cite_start]Engineered an audio-to-AI pipeline integrating AssemblyAI (Speech-to-text) with a NeuralSeek AI Agent to automatically transcribe and summarize audio call files[cite: 42].
-* [cite_start]Implemented secure user login and Google authentication using Auth0 to protect all application routes[cite: 43].
-
-### 2. PokeFolio: Pokémon TCG Tracker
-* [cite_start]**Date:** Oct 2025 - Present [cite: 31]
-* [cite_start]**Tech:** Python, Flask, HTML/CSS, SQLite [cite: 30]
-* [cite_start]Engineered core functionality using API integration for real-time Pokémon card and set information[cite: 32].
-* [cite_start]Currently developing advanced features for historical price tracking and personal collection management to monitor investment value[cite: 32].
-
-### 3. Online Travel Reservation Database
-* [cite_start]**Date:** Sep 2025 - Present [cite: 35]
-* [cite_start]**Tech:** Java, MS SQL Server, HTML/CSS [cite: 34]
-* [cite_start]Designed and normalized a 12-table relational database in MS SQL Server to manage complex flight, user, and reservation data[cite: 36].
-* [cite_start]Collaborating in a team of three to implement SQL queries for direct/indirect flights and a user-driven price bidding system[cite: 36, 37].
-
-### 4. NBA Player Performance Analyzer
-* [cite_start]**Date:** Sep 2025 [cite: 48]
-* [cite_start]**Tech:** Python, Pandas, REST APIs [cite: 46]
-* [cite_start]Developed a Python program that integrates REST APIs with Pandas to analyze over 5,000 NBA game logs[cite: 47].
-* [cite_start]Implemented logic to detect player "hot streaks" (e.g., 25+ PPG over 5 games) and evaluate matchup-based performance[cite: 47].
-
----
-
-## 💼 Professional Experience
-
-### AI Data Trainer | Data Annotations.tech
-[cite_start]*(Dec 2024 - Present)* [cite: 22]
-* [cite_start]Enhancing dataset quality for machine learning training by evaluating 400+ AI-generated responses for factuality, tone, and safety[cite: 23].
-* [cite_start]Identifying and correcting critical mathematical computation errors in datasets to ensure model reliability[cite: 23].
-
-### AI Pre-Intern | Citi
-[cite_start]*(Jul 2023 - Aug 2023)* [cite: 25]
-* [cite_start]Selected as 1 of 20 high school participants for a competitive AI pre-internship program[cite: 26].
-* [cite_start]Engineered an NLP pipeline using Python, Pandas, and NLTK to process and analyze over 70,000 financial tweets for public sentiment[cite: 26].
-* [cite_start]Applied VADER sentiment scoring and presented data-driven insights on fraud and data breaches to Citibank staff using Matplotlib[cite: 27].
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiabinc0602-collab&show_icons=true&theme=radical&rank_icon=github" alt="Jia's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiabinc0602-collab&layout=compact&theme=radical" alt="Jia's Top Languages" />
+</p>
