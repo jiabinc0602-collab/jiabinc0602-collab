@@ -60,6 +60,7 @@ Here are some of the technologies I've been working with:
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📊 My GitHub Stats
