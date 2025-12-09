@@ -8,6 +8,8 @@ I'm a sophomore at **Stony Brook University** double-majoring in **Computer Scie
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/250px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> **LinkedIn:** [www.linkedin.com/in/jia-chen54](https://www.linkedin.com/in/jia-chen54)
 * 📧 **Email:** [jiabinc0602@gmail.com](mailto:jiabinc0602@gmail.com)
 
+Interests: Basketball, badminton, bouldering, chess, pokemon, crypto
+
 ---
 
 ## 🛠️ My Tech Stack
