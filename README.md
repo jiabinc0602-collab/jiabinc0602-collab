@@ -8,7 +8,7 @@ I'm a sophomore at **Stony Brook University** double-majoring in **Computer Scie
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/250px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> **LinkedIn:** [www.linkedin.com/in/jia-chen54](https://www.linkedin.com/in/jia-chen54)
 * 📧 **Email:** [jiabinc0602@gmail.com](mailto:jiabinc0602@gmail.com)
 
-Interests: Basketball, badminton, bouldering, chess, pokemon, crypto
+Interests: Basketball🏀, Badminton🏸, Bouldering🧗‍♂️, Chess♟️, Pokemon <img src="https://static.wikia.nocookie.net/pokemon-fano/images/6/6f/Poke_Ball.png/revision/latest?cb=20140520015336" alt="PokeBall" width="18" height="18">, Crypto🗠, AstroPhysics🪐
 
 ---
 
@@ -44,10 +44,11 @@ Here are some of the technologies I've been working with:
     </td>
     <td>
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
       <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
       <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLTK" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" width="123">
     </td>
   </tr>
   <tr>
