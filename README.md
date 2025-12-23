@@ -1,7 +1,7 @@
 # Hi there, I'm Jia 👋
 
 
-I'm a sophomore at **Stony Brook University** double-majoring in **Computer Science** and **Applied Mathematics & Statistics**. I'm passionate about building full-stack applications, working with databases, and exploring data science and AI.
+I'm a sophomore at **Stony Brook University** double-majoring in **Computer Science** and **Applied Mathematics & Statistics**. I'm passionate about deep learning, data science, and machine learning.
 
 * 🎓 **Expected Graduation:** May 2028 
 * 💡 **Current Role:** AI Data Trainer at Data Annotations.tech 
