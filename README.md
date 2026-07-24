@@ -1,14 +1,13 @@
 # Hi there, I'm Jia 👋
 
 
-I'm a sophomore at **Stony Brook University** double-majoring in **Computer Science** and **Applied Mathematics & Statistics**. I'm passionate about deep learning, data science, and machine learning.
+I'm a Junior at **Stony Brook University** double-majoring in **Computer Science** and **Applied Mathematics & Statistics**. I'm passionate about deep learning, data science, and machine learning.
 
 * 🎓 **Expected Graduation:** May 2028 
-* 💡 **Current Role:** AI Data Trainer at Data Annotations.tech 
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/250px-LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> **LinkedIn:** [www.linkedin.com/in/jb-chen/](https://www.linkedin.com/in/jb-chen/)
 * 📧 **Email:** [jiabinc0602@gmail.com](mailto:jiabinc0602@gmail.com)
 
-Interests: Basketball🏀, Badminton🏸, Bouldering🧗‍♂️, Chess♟️, Pokemon <img src="https://static.wikia.nocookie.net/pokemon-fano/images/6/6f/Poke_Ball.png/revision/latest?cb=20140520015336" alt="PokeBall" width="18" height="18">, Crypto🗠, AstroPhysics🪐
+Interests: Basketball🏀, Badminton🏸, Bouldering🧗‍♂️, Chess♟️, Pokemon <img src="https://static.wikia.nocookie.net/pokemon-fano/images/6/6f/Poke_Ball.png/revision/latest?cb=20140520015336" alt="PokeBall" width="18" height="18">, Crypto🗠
 
 ---
 
